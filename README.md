@@ -1,3 +1,8 @@
+# NAME:SOUNDARYA J
+# REG NO:212223220108
+# DATE: 29.8.2025
+
+
 # Experiment: Binary Counter using Switch, Seven Segment and Arduino Uno
 # Aim:
 To design and simulate a binary counter using an Arduino Uno, push button switch, and seven-segment display. The counter should increment its value on each button press and display the count (0–9) on the seven-segment display.
@@ -62,6 +67,8 @@ void displayDigit(int num) {
 <img width="1059" height="589" alt="Screenshot 2025-08-29 104215" src="https://github.com/user-attachments/assets/fdc4c84c-4e03-4a4a-aa23-3232d40eab7a" />
 
 <img width="893" height="603" alt="Screenshot 2025-08-29 104236" src="https://github.com/user-attachments/assets/94356499-020f-425a-8234-fbf88b28c116" />
+
+
 # Result:
 Thus,Binary Counter using Switch, Seven Segment and Arduino Uno is done successfully.
 
