@@ -1,13 +1,12 @@
 # Experiment: Binary Counter using Switch, Seven Segment and Arduino Uno
 # Aim:
 To design and simulate a binary counter using an Arduino Uno, push button switch, and seven-segment display. The counter should increment its value on each button press and display the count (0–9) on the seven-segment display.
-# Components Required::
-1.Arduino Uno
-2.Proteus
+# Components Required:
+Arduino Uno,Proteus
 # Procedure:
-1.Connect Arduino Uno, push button, and seven-segment display in Proteus as per connection diagram.
-2.Upload the Arduino program in Arduino IDE and compile.
-3.Load the generated .hex file into the Arduino Uno in Proteus.
+1.Connect Arduino Uno, push button, and seven-segment display in Proteus as per connection diagram.<br>
+2.Upload the Arduino program in Arduino IDE and compile.<br>
+3.Load the generated .hex file into the Arduino Uno in Proteus.<br>
 4.Run simulation → Press the push button → Observe the count increments (0 → 9).
 # Program:
 ```
