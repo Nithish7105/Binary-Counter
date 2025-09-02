@@ -1,6 +1,6 @@
-# NAME:SOUNDARYA J
-# REG NO:212223220108
-# DATE: 29.8.2025
+# NAME:NITHISH KUMAR.B
+# REG NO:212223040134
+# DATE: 2.9.2025
 
 
 # Experiment: Binary Counter using Switch, Seven Segment and Arduino Uno
